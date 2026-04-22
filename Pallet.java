@@ -32,4 +32,6 @@ class Pallet<T extends Box> {
     public int getRemainingVolume() {return maxVolume - getCurrentVolume();}
 
     public String getId() {return id;}
+
+    public List<T> getBoxes() {return boxes;}
 }
