@@ -1,0 +1,20 @@
+{
+  "shop": "Melstroy Market",
+  "products": [
+    {
+      "name": "Hamam",
+      "price": 100,
+      "quantity": 3
+    },
+    {
+      "name": "Темный друн",
+      "price": 400,
+      "quantity": 1
+    },
+    {
+      "name": "Ч",
+      "price": 30,
+      "count": 1
+    }
+  ]
+}
